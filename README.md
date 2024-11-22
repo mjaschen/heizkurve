@@ -1,3 +1,7 @@
+## 2024-11-22
+
+- Änderung 10/25 auf 10/27 nachgepflegt (verringert Taktung)
+
 ## 2021-02-08
 
 - Innentemperatur ~21.5 .. 22 ℃ mit alter Heizkurve
