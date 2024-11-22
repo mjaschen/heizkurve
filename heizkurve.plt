@@ -182,5 +182,6 @@ x = 0.0
 plot \
     'heizkurve.txt' using 1:2 title 'Heizkurve alt' lw 2 lc 'red' with line , \
     'heizkurve.txt' using 3:4 title 'Heizkurve 2021-02-08' lw 2 lc rgb '#3388CC' with line , \
-    'heizkurve.txt' using 5:6 title 'Heizkurve 2021-04-27' lw 3 lc rgb '#8833CC' with line
+    'heizkurve.txt' using 5:6 title 'Heizkurve 2021-04-27' lw 3 lc rgb '#8833CC' with line , \
+    'heizkurve.txt' using 7:8 title 'Heizkurve 2024-11-22' lw 3 lc rgb '#CC3388' with line
 #    EOF
